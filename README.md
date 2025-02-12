@@ -2,6 +2,7 @@ MARS - McNeese Augmented Reality Sandbox
 The McNeeese Augmented Reality Sandbox is an interactive sandbox with an augmented-reality topology map and water simulation. This project is based on the original UC Davis AR sandbox.
 
 Links to documentation on the original UC Davis AR sandbox
+
 Link to the UC Davis-hosted instructions and software setup.
 
 https://arsandbox.ucdavis.edu/instructions/
